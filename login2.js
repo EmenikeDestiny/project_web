@@ -38,6 +38,6 @@ function myLogin(e) {
     }
     else{
         output.innerHTML = '<div class="alert alert-success" role="alert">Congratulations! You have successfully registered </div>'
-        window.location.href = "index.html" 
+        window.location.href = "login.html" 
     }
 }
